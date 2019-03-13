@@ -23,7 +23,7 @@ Google Chrome is caching/not relaoding the iFrame in all cases for the web site 
 
 >- Note: This is unlikely to be an issue for customers the day of the event as it will be the first time they access the page.
 
-If you have not set your PowerShell execution policy you will need to allow your session to run unsigned remote scripts to be able to actually run the script.
+If you have not set your PowerShell execution policy you will need to allow your session to run unsigned remote scripts to be able to actually run the script. Choose to run the PowerShell prompt as administrator.
 
 >- Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 
